@@ -14,6 +14,7 @@
       <p><b>学校：浙江万里学院</b></p>
       <p><b>联系方式：17815962286</b></p>
       <p><b>邮箱：604733974@qq.com</b></p>
+      <a href="/index-en.html">英文版</a>
     </td>
     <td width="25%">
       <img src="/证件照.jpg" width="100%">
