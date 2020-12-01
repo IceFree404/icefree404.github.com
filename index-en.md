@@ -9,7 +9,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Name：杨依源</h1>
+      <h1>Name：SCOFIELD YANG</h1>
       <p><b>Education：Undergraduate</b></p>
       <p><b>School：ZWU</b></p>
       <p><b>Contact information：17815962286</b></p>
